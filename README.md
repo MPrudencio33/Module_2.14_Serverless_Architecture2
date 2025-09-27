@@ -1,7 +1,6 @@
 # Module_2.14_Serverless_Architecture2
 Answers to Assignment on Module 2.14 Serverless Architecture 2
 
-Answer the following:-
 1. Does SNS guarantee exactly once delivery to subscribers?
    ANSWER:
       No, Amazon SNS does not guarantee exactly-once delivery to subscribers.
